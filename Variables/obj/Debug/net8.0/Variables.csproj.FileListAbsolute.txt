@@ -1,0 +1,14 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/bin/Debug/net8.0/Variables
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/bin/Debug/net8.0/Variables.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/bin/Debug/net8.0/Variables.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/ref/Variables.dll
