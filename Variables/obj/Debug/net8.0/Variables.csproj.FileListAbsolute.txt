@@ -7,6 +7,7 @@
 /home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
 /home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
 /home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.sourcelink.json
 /home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.dll
 /home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/refint/Variables.dll
 /home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/Variables/obj/Debug/net8.0/Variables.pdb
