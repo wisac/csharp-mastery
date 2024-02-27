@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/bin/Debug/net8.0/NoTopLevel
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/bin/Debug/net8.0/NoTopLevel.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/bin/Debug/net8.0/NoTopLevel.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/bin/Debug/net8.0/NoTopLevel.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/bin/Debug/net8.0/NoTopLevel.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/refint/NoTopLevel.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/NoTopLevel.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/NoTopLevel/obj/Debug/net8.0/ref/NoTopLevel.dll

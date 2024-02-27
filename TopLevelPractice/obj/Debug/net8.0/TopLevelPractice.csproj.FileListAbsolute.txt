@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/bin/Debug/net8.0/TopLevelPractice
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/bin/Debug/net8.0/TopLevelPractice.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/bin/Debug/net8.0/TopLevelPractice.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/bin/Debug/net8.0/TopLevelPractice.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/bin/Debug/net8.0/TopLevelPractice.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/refint/TopLevelPractice.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/TopLevelPractice.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/TopLevelPractice/obj/Debug/net8.0/ref/TopLevelPractice.dll

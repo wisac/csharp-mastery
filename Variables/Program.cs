@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-int? age = null;
+int? age = null; // nullable variable
 string? name = null;
 
 DateTime today = DateTime.UtcNow;
