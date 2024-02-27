@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/bin/Debug/net8.0/ConsoleClass
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/bin/Debug/net8.0/ConsoleClass.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/bin/Debug/net8.0/ConsoleClass.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/bin/Debug/net8.0/ConsoleClass.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/bin/Debug/net8.0/ConsoleClass.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/refint/ConsoleClass.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ConsoleClass.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConsoleClass/obj/Debug/net8.0/ref/ConsoleClass.dll
