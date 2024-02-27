@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/bin/Debug/net8.0/CommandLineArgs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/bin/Debug/net8.0/CommandLineArgs.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/bin/Debug/net8.0/CommandLineArgs.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/bin/Debug/net8.0/CommandLineArgs.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/bin/Debug/net8.0/CommandLineArgs.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/refint/CommandLineArgs.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/CommandLineArgs.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/CommandLineArgs/obj/Debug/net8.0/ref/CommandLineArgs.dll
