@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/bin/Debug/net8.0/Enumerations
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/bin/Debug/net8.0/Enumerations.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/bin/Debug/net8.0/Enumerations.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/bin/Debug/net8.0/Enumerations.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/bin/Debug/net8.0/Enumerations.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/refint/Enumerations.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/Enumerations.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/Enumerations/obj/Debug/net8.0/ref/Enumerations.dll
