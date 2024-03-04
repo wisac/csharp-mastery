@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/bin/Debug/net8.0/SwitchStatements
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/bin/Debug/net8.0/SwitchStatements.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/bin/Debug/net8.0/SwitchStatements.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/bin/Debug/net8.0/SwitchStatements.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/bin/Debug/net8.0/SwitchStatements.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/refint/SwitchStatements.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/SwitchStatements.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/SwitchStatements/obj/Debug/net8.0/ref/SwitchStatements.dll

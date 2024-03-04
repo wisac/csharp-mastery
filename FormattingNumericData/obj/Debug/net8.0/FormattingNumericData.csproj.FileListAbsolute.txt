@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/bin/Debug/net8.0/FormattingNumericData
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/bin/Debug/net8.0/FormattingNumericData.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/bin/Debug/net8.0/FormattingNumericData.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/bin/Debug/net8.0/FormattingNumericData.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/bin/Debug/net8.0/FormattingNumericData.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/refint/FormattingNumericData.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/FormattingNumericData.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FormattingNumericData/obj/Debug/net8.0/ref/FormattingNumericData.dll

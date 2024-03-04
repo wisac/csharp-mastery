@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/bin/Debug/net8.0/ParsingStrings
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/bin/Debug/net8.0/ParsingStrings.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/bin/Debug/net8.0/ParsingStrings.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/bin/Debug/net8.0/ParsingStrings.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/bin/Debug/net8.0/ParsingStrings.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/refint/ParsingStrings.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ParsingStrings.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ParsingStrings/obj/Debug/net8.0/ref/ParsingStrings.dll
