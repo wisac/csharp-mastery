@@ -1,6 +1,6 @@
 namespace ClassDemo;
 
-public class Person 
+public class Person
 {
 
    public string? FirstName { get; set; } // getter and setter
@@ -8,8 +8,8 @@ public class Person
 
    public void PrintInfo()
    {
-      Console.WriteLine("First name is {0}, Last name is {1}",this.FirstName, this.LastName);
-      
+      Console.WriteLine("First name is {0}, Last name is {1}", this.FirstName, this.LastName);
+
    }
 
 }
