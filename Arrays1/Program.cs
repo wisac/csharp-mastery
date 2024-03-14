@@ -1,0 +1,3 @@
+﻿using ArrayBasics;
+
+ArrayDemo.Demo();

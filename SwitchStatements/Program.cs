@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Switch statements");
 char myChar = '\u0061'; // a
 string firstName = "Isaac";
 
