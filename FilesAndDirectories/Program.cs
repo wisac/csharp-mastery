@@ -48,8 +48,12 @@ File.Copy("file.txt", "dir/fileCopy.txt",true); // copy and overwrite file
 
 Console.WriteLine(Path.DirectorySeparatorChar); // /
 
+// get all files which meet specific pattern and recursively
+string[] allFiles = Directory.GetFiles("./", "*.txt", SearchOption.AllDirectories);
 
-
+foreach(var file in allFiles)
+   Console.WriteLine(file);
+   
 
 
 
