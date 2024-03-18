@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/bin/Debug/net8.0/FilesAndDirectories
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/bin/Debug/net8.0/FilesAndDirectories.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/bin/Debug/net8.0/FilesAndDirectories.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/bin/Debug/net8.0/FilesAndDirectories.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/bin/Debug/net8.0/FilesAndDirectories.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/refint/FilesAndDirectories.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/FilesAndDirectories.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/FilesAndDirectories/obj/Debug/net8.0/ref/FilesAndDirectories.dll
