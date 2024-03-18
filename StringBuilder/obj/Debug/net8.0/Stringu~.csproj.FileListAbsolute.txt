@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/bin/Debug/net8.0/Stringu~
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/bin/Debug/net8.0/Stringu~.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/bin/Debug/net8.0/Stringu~.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/bin/Debug/net8.0/Stringu~.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/bin/Debug/net8.0/Stringu~.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/refint/Stringu~.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/Stringu~.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/StringBuilder/obj/Debug/net8.0/ref/Stringu~.dll
