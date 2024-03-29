@@ -19,9 +19,8 @@ class Customer
       this.Name = name;
    }
 
-   public Customer(string id, string name) : this()
+   public Customer(string id, string name) : this(name)
    {
-      this.Name = name;
       this.Id = id;
    }
 
