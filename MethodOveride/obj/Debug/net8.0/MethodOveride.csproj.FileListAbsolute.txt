@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/bin/Debug/net8.0/MethodOveride
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/bin/Debug/net8.0/MethodOveride.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/bin/Debug/net8.0/MethodOveride.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/bin/Debug/net8.0/MethodOveride.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/bin/Debug/net8.0/MethodOveride.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/refint/MethodOveride.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/MethodOveride.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/MethodOveride/obj/Debug/net8.0/ref/MethodOveride.dll
