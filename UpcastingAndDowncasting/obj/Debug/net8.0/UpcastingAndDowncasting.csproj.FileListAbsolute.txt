@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/bin/Debug/net8.0/UpcastingAndDowncasting
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/bin/Debug/net8.0/UpcastingAndDowncasting.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/bin/Debug/net8.0/UpcastingAndDowncasting.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/bin/Debug/net8.0/UpcastingAndDowncasting.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/bin/Debug/net8.0/UpcastingAndDowncasting.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/refint/UpcastingAndDowncasting.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/UpcastingAndDowncasting.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/UpcastingAndDowncasting/obj/Debug/net8.0/ref/UpcastingAndDowncasting.dll

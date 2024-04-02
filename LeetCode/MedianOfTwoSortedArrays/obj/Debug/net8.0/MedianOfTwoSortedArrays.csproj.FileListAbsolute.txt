@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/bin/Debug/net8.0/MedianOfTwoSortedArrays
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/bin/Debug/net8.0/MedianOfTwoSortedArrays.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/bin/Debug/net8.0/MedianOfTwoSortedArrays.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/bin/Debug/net8.0/MedianOfTwoSortedArrays.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/bin/Debug/net8.0/MedianOfTwoSortedArrays.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/refint/MedianOfTwoSortedArrays.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/MedianOfTwoSortedArrays.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/MedianOfTwoSortedArrays/obj/Debug/net8.0/ref/MedianOfTwoSortedArrays.dll

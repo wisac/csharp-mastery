@@ -29,7 +29,7 @@ foreach (var item in Directory.GetDirectories("/"))
    Console.WriteLine(item);
 }
 
-DirectoryInfo dir = new("./dir"); // initialize a new directory instance
+DirectoryInfo dir = new("./dir"); // bind a new directory
 
 dir.Create(); // creates new directory
 Console.WriteLine(dir.Name);

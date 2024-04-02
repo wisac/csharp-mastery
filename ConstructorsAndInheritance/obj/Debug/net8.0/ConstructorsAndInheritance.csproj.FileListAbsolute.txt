@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/bin/Debug/net8.0/ConstructorsAndInheritance
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/bin/Debug/net8.0/ConstructorsAndInheritance.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/bin/Debug/net8.0/ConstructorsAndInheritance.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/bin/Debug/net8.0/ConstructorsAndInheritance.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/bin/Debug/net8.0/ConstructorsAndInheritance.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/refint/ConstructorsAndInheritance.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ConstructorsAndInheritance.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/ConstructorsAndInheritance/obj/Debug/net8.0/ref/ConstructorsAndInheritance.dll

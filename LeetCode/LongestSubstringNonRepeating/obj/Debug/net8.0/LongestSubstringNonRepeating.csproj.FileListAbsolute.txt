@@ -1,0 +1,15 @@
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/bin/Debug/net8.0/LongestSubstringNonRepeating
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/bin/Debug/net8.0/LongestSubstringNonRepeating.deps.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/bin/Debug/net8.0/LongestSubstringNonRepeating.runtimeconfig.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/bin/Debug/net8.0/LongestSubstringNonRepeating.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/bin/Debug/net8.0/LongestSubstringNonRepeating.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.AssemblyInfoInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.AssemblyInfo.cs
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.csproj.CoreCompileInputs.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.sourcelink.json
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/refint/LongestSubstringNonRepeating.dll
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.pdb
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/LongestSubstringNonRepeating.genruntimeconfig.cache
+/home/wilson/DEVELOPMENTS/PERSONAL/C# DEVELOPMENT/csharp-mastery/LeetCode/LongestSubstringNonRepeating/obj/Debug/net8.0/ref/LongestSubstringNonRepeating.dll
